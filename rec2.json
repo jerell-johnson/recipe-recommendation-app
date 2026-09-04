@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil"],
+    "method": "Boil pasta and mix with sauce.",
+    "diet": "Vegetarian",
+    "time": "20 mins",
+    "difficulty": "Easy",
+    "calories": 400
+  },
+  {
+    "name": "Chicken Salad",
+    "ingredients": ["chicken", "lettuce", "tomato"],
+    "method": "Cook chicken and mix with vegetables.",
+    "diet": "Any",
+    "time": "15 mins",
+    "difficulty": "Easy",
+    "calories": 350
+  },
+  {
+    "name": "Veggie Stir Fry",
+    "ingredients": ["broccoli", "carrot", "pepper"],
+    "method": "Fry vegetables together.",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "difficulty": "Easy",
+    "calories": 250
+  },
+  {
+    "name": "Omelette",
+    "ingredients": ["eggs", "cheese"],
+    "method": "Cook eggs with cheese in a pan.",
+    "diet": "Vegetarian",
+    "time": "10 mins",
+    "difficulty": "Easy",
+    "calories": 300
+  }
+]
